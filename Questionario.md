@@ -6,3 +6,6 @@ O commit consiste no empacotamento das alterações. Devendo sempre ser realizad
 
 3- O que é um repositório?
 O repositório é o local onde são armazenados os arquivos do projeto. O repositório pode ser tanto local quando remoto.
+
+4- Oque é o merge?
+Realizamos o merge quando queremos juntar duas branchs.
