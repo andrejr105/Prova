@@ -18,3 +18,6 @@ As Branchs são ramificações do repositório, nas quais podemos realizar alter
 
 8- O que é pull request?
 O pull request e a solicitação de alteração em um repositório de terceiros.
+
+9- O que é fork?
+O fork consiste em criar uma cópia do repositório de outro usuário, após o fork podemos clonar essa cópia para nosso repositório local, as alterações que forem feitas não alterarão o repositório original. Para que o repositório original seja modificado e necessário a realização do pull request, a alteração do repositório só ocorrerá caso o dono do repositório original autorize.  
