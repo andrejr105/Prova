@@ -12,3 +12,6 @@ Realizamos o merge quando queremos juntar duas branchs.
 
 5- O que é o pull?
 O pull traz as alterações realizadas no repositório remoto para o repositório local. Lembrando que o pull só e realizado em alterações que já passaram pelo commit.
+
+7- O que é uma Branch?
+As Branchs são ramificações do repositório, nas quais podemos realizar alterações e testes sem afetar a branch principal. Dessa forma não correndo o risco de destruir nosso código com arquivos bugados.
