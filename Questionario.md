@@ -3,3 +3,6 @@ O clone consiste em copiar o repositório remoto para a criação de um reposit�
 
 2- O que é commit?
 O commit consiste no empacotamento das alterações. Devendo sempre ser realizado antes de um pull ou de um push.
+
+3- O que é um repositório?
+O repositório é o local onde são armazenados os arquivos do projeto. O repositório pode ser tanto local quando remoto.
