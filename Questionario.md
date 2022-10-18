@@ -15,3 +15,6 @@ O pull traz as alterações realizadas no repositório remoto para o repositóri
 
 7- O que é uma Branch?
 As Branchs são ramificações do repositório, nas quais podemos realizar alterações e testes sem afetar a branch principal. Dessa forma não correndo o risco de destruir nosso código com arquivos bugados.
+
+8- O que é pull request?
+O pull request e a solicitação de alteração em um repositório de terceiros.
