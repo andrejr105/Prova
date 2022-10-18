@@ -1,5 +1,2 @@
-
-
-
 1 - O que é clone?
 O clone consiste em copiar o repositório remoto para a criação de um repositório local. Pode ser realizado apenas quando não existe um repositório local. 
